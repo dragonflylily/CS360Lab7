@@ -1,0 +1,7 @@
+{
+	"name": "static",
+	"version" : "0.1.1",
+	"description": "a simple server",
+	"dependencies": {},
+	"main": "Lab6"
+}	
